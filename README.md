@@ -1,6 +1,8 @@
 # quantum-computing
 Introduction to Quantum Computing and Quantum Algorithms with IBM Qiskit and D-Wave 
 
+![img](https://pbs.twimg.com/media/DpAzEuMWkAAymJ4.jpg)
+
 # Books
 0. Quanta Guru Docs: https://www.quanta.guru/docs
 1. A zoo of "Quantum Algorithms": http://quantumalgorithmzoo.org/
